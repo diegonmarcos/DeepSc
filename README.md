@@ -5,6 +5,7 @@ Registry index for the DeepSc repo family (Deep-ScX) - same model as `CG-___`, `
 ## Members
 
 - [DeepSc-X](https://github.com/diegonmarcos/DeepSc-X) - Deep-ScX / saylitics: README and deployer wiring skeleton; the matching front-labtools project c-Stk_DsX/sailytics moves here with the labtools split (#1218). #1224.
+- DeepSc-Tools (private) - DeepSc tools: first tool is CAD with MCP servers for agentic 3D modelling (FreeCAD, Blender, AutoCAD/DXF as pinned upstream submodules under tools/cad). #1255.
 
 ## Usage
 
