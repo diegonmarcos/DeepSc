@@ -1,10 +1,9 @@
 # DeepSc
 
-Registry index for the DeepSc repo family (Stark.x, Deep-ScX) - same model as `CG`, `front` and `cloud`. This repo is an INDEX, not a container: it holds `repos.json` (the registry, a subset of git-repos-master/repos.json), `clone.sh` (pick which repos to have locally) and one committed relative symlink per member (`<member> -> ../<member>`); the actual clones live as siblings in `~/git/`.
+Registry index for the DeepSc repo family (Deep-ScX) - same model as `CG`, `front` and `cloud`. This repo is an INDEX, not a container: it holds `repos.json` (the registry, a subset of git-repos-master/repos.json), `clone.sh` (pick which repos to have locally) and one committed relative symlink per member (`<member> -> ../<member>`); the actual clones live as siblings in `~/git/`.
 
 ## Members
 
-- [DeepSc-StarkX](https://github.com/diegonmarcos/DeepSc-StarkX) - Stark.x company site (published at /stark/), moved from front-endeavours a_Companies/stark (#1224); front-endeavours keeps a symlink to this repo.
 - [DeepSc-X](https://github.com/diegonmarcos/DeepSc-X) - Deep-ScX / saylitics: README and deployer wiring skeleton; the matching front-labtools project c-Stk_DsX/sailytics moves here with the labtools split (#1218). #1224.
 
 ## Usage

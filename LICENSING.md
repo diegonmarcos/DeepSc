@@ -18,7 +18,7 @@ All the licensor's own work in this index repo: `repos.json`, `clone.sh`,
 
 None is vendored in this repository.
 
-The member entries (`DeepSc-StarkX`, `DeepSc-X`) are **symlinks** to sibling clones, not
+The member entries (`DeepSc-X`) are **symlinks** to sibling clones, not
 content of this repo. Each is a separate repository with its own licensing;
 any third-party code inside them (npm dependencies, vendored theme assets,
 fonts, etc.) **keeps its original license** and is not relicensed by this file.
