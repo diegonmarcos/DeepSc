@@ -13,10 +13,11 @@
       "doc": "Deep-ScX / saylitics: README and deployer wiring skeleton; the matching front-labtools project c-Stk_DsX/sailytics moves here with the labtools split (#1218). #1224."
     },
     {
-      "name": "DeepSc-Tools",
-      "url": "git@github.com:diegonmarcos/DeepSc-Tools.git",
-      "private": true,
-      "doc": "DeepSc tools: first tool is CAD with MCP servers for agentic 3D modelling (FreeCAD, Blender, AutoCAD/DXF as pinned upstream submodules under tools/cad). #1255."
+      "name": "CAD-Simulators",
+      "url": "git@github.com:diegonmarcos/CAD-Simulators.git",
+      "private": false,
+      "renamed_from": ["DeepSc-Tools"],
+      "doc": "CAD and simulators (renamed from DeepSc-Tools and made public 2026-10-28, #1261): first tool is CAD with MCP servers for agentic 3D modelling (FreeCAD, Blender, AutoCAD/DXF as pinned upstream submodules under tools/cad). #1255."
     }
   ],
   "_root_doc": "No entries carry a group field - every member links at the root of this index, same as CG and front."
