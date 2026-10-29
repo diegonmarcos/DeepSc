@@ -1,0 +1,60 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "DeepSc-___",
+  "label": "DeepSc-___",
+  "code": "4.0",
+  "kind": "hub",
+  "description": "DeepSc — hub: deep science (StarkX, X)",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/DeepSc-___",
+  "developer": "Stark.x",
+  "farm": "4.HardTech",
+  "breadcrumb": [
+    {
+      "code": "4",
+      "kind": "area",
+      "label": "HardTech",
+      "icon": "🔬"
+    }
+  ],
+  "hub": {
+    "name": "_git-repos-master",
+    "code": "0",
+    "url": "https://github.com/diegonmarcos/_git-repos-master"
+  },
+  "base_dir": "git",
+  "members": [
+    {
+      "code": "4.2.1.1",
+      "name": "DeepSc-X",
+      "url": "https://github.com/diegonmarcos/DeepSc-X",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "DeepSc-X — deep science projects"
+    },
+    {
+      "code": "4.3.1.1",
+      "name": "CAD-Simulators",
+      "url": "https://github.com/diegonmarcos/CAD-Simulators",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "DeepSc tools: agentic CAD (MCP) and more"
+    }
+  ],
+  "tree": [
+    "├── .claude/",
+    "│   ├── agents/",
+    "│   ├── hooks/",
+    "│   │   └── c3/",
+    "│   └── skills/",
+    "│       └── c3-infra/",
+    "├── .githooks/",
+    "├── .github/",
+    "│   └── workflows/",
+    "├── .obsidian/",
+    "├── .vscode/",
+    "└── 0_hub/",
+    "    └── _git-repos-master (submodule)"
+  ]
+}
