@@ -5,6 +5,7 @@
   "label": "DeepSc-___",
   "code": "4.0",
   "kind": "hub",
+  "variant": "hub",
   "description": "DeepSc — hub: deep science (StarkX, X)",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/DeepSc-___",
