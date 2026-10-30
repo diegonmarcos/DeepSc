@@ -1,5 +1,5 @@
 {
   "title": "HardTech-___",
-  "intro": "Registry index for the HardTech repo family (formerly DeepSc-___) - same model as `CG-___`, `Projects-___` and `cloud-___`. This repo is an INDEX, not a container: it holds `repos.json` (the registry, a subset of _git-repos-master/repos.json), `clone.sh` (pick which repos to have locally) and one committed relative symlink per member (`<member> -> ../<member>`); the actual clones live as siblings in `~/git/`.\n\nTop-level hub since #1291 (it was under `Projects-___`).",
+  "intro": "Registry index for the HardTech repo family (formerly DeepSc-___) - same model as `CG-___`, `Projects-___` and `cloud-___`. This repo is an INDEX, not a container: it holds `repos.json` (the registry, a subset of _git-repos-master/0_registry/repos.json), `clone.sh` (pick which repos to have locally) and one committed relative symlink per member (`<member> -> ../<member>`); the actual clones live as siblings in `~/git/`.\n\nTop-level hub since #1291 (it was under `Projects-___`).",
   "sections": []
 }
