@@ -1,5 +1,5 @@
 {
-  "_doc": "Registry of the DeepSc project (DeepSc, master index). A SUBSET of repo_master/repos.json (git-repos-master), narrowed to DeepSc repo family (Deep-ScX). Identical name/url/private/doc fields to that superset; the two must not disagree. This repo is an INDEX, not a container - see clone.sh for the clone/link model. Private members are linked only: the index exposes their name, never their content.",
+  "_doc": "Registry of the HardTech project (HardTech-___, master index). A SUBSET of repo_master/repos.json (git-repos-master), narrowed to the HardTech repo family (Deep-ScX). Identical name/url/private/doc fields to that superset; the two must not disagree. This repo is an INDEX, not a container - see clone.sh for the clone/link model. Private members are linked only: the index exposes their name, never their content.",
   "_schema": "front-repos/v1",
   "base_dir_doc": "Clones live outside this index, as siblings in $CLOUD_GIT_BASE (default ~/git). This repo holds only committed symlinks pointing at them.",
   "base_dir_default": "~/git",
@@ -7,14 +7,14 @@
   "groups": {},
   "repos": [
     {
-      "name": "DeepSc-X",
-      "url": "git@github.com:diegonmarcos/DeepSc-X.git",
+      "name": "HardTech-DeepXTech",
+      "url": "git@github.com:diegonmarcos/HardTech-DeepXTech.git",
       "private": false,
       "doc": "Deep-ScX / saylitics: README and deployer wiring skeleton; the matching front-labtools project c-Stk_DsX/sailytics moves here with the labtools split (#1218). #1224."
     },
     {
-      "name": "CAD-Simulators",
-      "url": "git@github.com:diegonmarcos/CAD-Simulators.git",
+      "name": "HardTech-Stack-CAD-Simulators",
+      "url": "git@github.com:diegonmarcos/HardTech-Stack-CAD-Simulators.git",
       "private": false,
       "renamed_from": ["DeepSc-Tools"],
       "doc": "CAD and simulators (renamed from DeepSc-Tools and made public 2026-10-28, #1261): first tool is CAD with MCP servers for agentic 3D modelling (FreeCAD, Blender, AutoCAD/DXF as pinned upstream submodules under tools/cad). #1255."

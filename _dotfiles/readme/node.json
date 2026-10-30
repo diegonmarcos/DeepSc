@@ -1,14 +1,14 @@
 {
   "schema": "readme-node/v1",
   "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
-  "name": "DeepSc-___",
-  "label": "DeepSc-___",
+  "name": "HardTech-___",
+  "label": "HardTech-___",
   "code": "4.0",
   "kind": "hub",
   "variant": "hub",
-  "description": "DeepSc — hub: deep science (StarkX, X)",
+  "description": "HardTech — hub: deep science and CAD / simulators (DeepXTech, Stack-CAD-Simulators)",
   "visibility": "public",
-  "url": "https://github.com/diegonmarcos/DeepSc-___",
+  "url": "https://github.com/diegonmarcos/HardTech-___",
   "developer": "Stark.x",
   "farm": "4.HardTech",
   "breadcrumb": [
@@ -28,16 +28,16 @@
   "members": [
     {
       "code": "4.2.1.1",
-      "name": "DeepSc-X",
-      "url": "https://github.com/diegonmarcos/DeepSc-X",
+      "name": "HardTech-DeepXTech",
+      "url": "https://github.com/diegonmarcos/HardTech-DeepXTech",
       "visibility": "public",
       "kind": "repo",
-      "description": "DeepSc-X — deep science projects"
+      "description": "HardTech-DeepXTech — deep science projects"
     },
     {
       "code": "4.3.1.1",
-      "name": "CAD-Simulators",
-      "url": "https://github.com/diegonmarcos/CAD-Simulators",
+      "name": "HardTech-Stack-CAD-Simulators",
+      "url": "https://github.com/diegonmarcos/HardTech-Stack-CAD-Simulators",
       "visibility": "public",
       "kind": "repo",
       "description": "DeepSc tools: agentic CAD (MCP) and more"
